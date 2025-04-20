@@ -106,7 +106,7 @@ Run the following in a notebook cell:
 * **Open-Access Papers:** For enabling the corpus creation.
 
 ## Contact
-For questions, feedback, or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/abhinandan-samal/) or [email](samalabhinandan06@gmail.com).
+For questions, feedback, or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/abhinandan-samal/) or [Email](samalabhinandan06@gmail.com).
 
 *This project was developed as a capstone for [Gen AI Intensive Course Capstone 2025Q1/Google].*
 
